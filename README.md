@@ -19,3 +19,5 @@ Nas branches mencionadas, foi utilizado a linguagem python para analise de dados
 [link_branch_mod_08](https://github.com/carolrmr/EBAC-PYTHON/tree/mod_08) = Python: Tratamento de Erros
 
 [link_branch_mod_09](https://github.com/carolrmr/EBAC-PYTHON/tree/mod_09) = Python: Scripting
+
+[link_branch_mod_10](https://www.kaggle.com/code/carolrmr/trabalho-final-mod10) = Python: Projeto Fianl
